@@ -13,8 +13,6 @@ O objetivo foi desenvolver um formulário com validação manual, seguindo um la
 
 URL -> https://erickao-120hzz.github.io/projeto-formulario-desafio/
 
- [Clique aqui para ver o projeto no GitHub Pages](https://erickcarvalho.github.io/projeto-formulario-desafio/)
-
 ---
 
 ##  Funcionalidades
